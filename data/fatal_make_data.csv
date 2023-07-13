@@ -1,0 +1,750 @@
+,Make,N.Fatal.Crashes,N.Non.Fatal.Crashes,Total.Crashes,ratio.fatal.to.tot
+0,Cessna,3508,122,3630,0.966
+1,Piper,1635,60,1695,0.965
+2,Boeing,726,512,1238,0.586
+3,Beech,602,35,637,0.945
+4,Air Tractor,438,10,448,0.978
+5,Grumman,292,4,296,0.986
+6,Airbus,164,124,288,0.569
+7,De Havilland,139,11,150,0.927
+8,Embraer,114,27,141,0.809
+9,Cirrus,131,6,137,0.956
+10,Bombardier,99,24,123,0.805
+11,Mcdonnell Douglas,75,39,114,0.658
+12,Rockwell,81,4,85,0.953
+13,Mooney,79,4,83,0.952
+14,Aviat,72,5,77,0.935
+15,Aero Commander,67,1,68,0.985
+16,Bellanca,65,0,65,1.0
+17,Ayres,53,2,55,0.964
+18,Douglas,43,11,54,0.796
+19,Swearingen,42,6,48,0.875
+20,Diamond Aircraft Ind Inc,46,1,47,0.979
+21,Learjet,42,2,44,0.955
+22,Aeronca,43,1,44,0.977
+23,Ayres Corporation,41,0,41,1.0
+24,Diamond,35,1,36,0.972
+25,British Aerospace,22,11,33,0.667
+26,Champion,32,0,32,1.0
+27,Raytheon Aircraft Company,30,0,30,1.0
+28,Maule,28,0,28,1.0
+29,North American,26,1,27,0.963
+30,Fairchild,22,5,27,0.815
+31,Lockheed,21,6,27,0.778
+32,Weatherly,25,0,25,1.0
+33,Socata,24,1,25,0.96
+34,Gulfstream,23,2,25,0.92
+35,Mitsubishi,17,2,19,0.895
+36,Schweizer Aircraft Corp,18,1,19,0.947
+37,Luscombe,18,0,18,1.0
+38,Vans,17,1,18,0.944
+39,Rans,14,3,17,0.824
+40,Atr,10,7,17,0.588
+41,Pilatus,13,3,16,0.812
+42,Stinson,16,0,16,1.0
+43,Taylorcraft,16,0,16,1.0
+44,Fokker,11,4,15,0.733
+45,Costruzioni Aeronautiche Tecna,15,0,15,1.0
+46,Wsk Pzl Mielec,15,0,15,1.0
+47,Raytheon,14,1,15,0.933
+48,Flight Design Gmbh,14,0,14,1.0
+49,Canadair,11,3,14,0.786
+50,Helio,14,0,14,1.0
+51,Evektor-Aerotechnik As,13,0,13,1.0
+52,Saab,10,3,13,0.769
+53,Gulfstream Aerospace,10,2,12,0.833
+54,Eagle,12,0,12,1.0
+55,Cub Crafters Inc,11,1,12,0.917
+56,Thrush Aircraft Inc,11,1,12,0.917
+57,Britten Norman,11,1,12,0.917
+58,American Champion Aircraft,12,0,12,1.0
+59,Israel Aircraft Industries,11,0,11,1.0
+60,Schweizer,11,0,11,1.0
+61,Waco,10,0,10,1.0
+62,Britten-Norman,10,0,10,1.0
+63,Pitts,9,0,9,1.0
+64,Curtiss Wright,9,0,9,1.0
+65,Gulfstream-Schweizer A/C Corp,9,0,9,1.0
+66,Convair,8,1,9,0.889
+67,Learjet Inc,8,1,9,0.889
+68,Embraer S A,7,2,9,0.778
+69,Gates Learjet Corp.,8,0,8,1.0
+70,General Atomics,7,1,8,0.875
+71,Lancair,8,0,8,1.0
+72,Tecnam,8,0,8,1.0
+73,Piaggio,8,0,8,1.0
+74,Hawker,8,0,8,1.0
+75,Ercoupe,8,0,8,1.0
+76,Diamond Aircraft Industries,7,0,7,1.0
+77,Snow,7,0,7,1.0
+78,Short Bros,7,0,7,1.0
+79,Gulfstream-Schweizer,7,0,7,1.0
+80,Gates Learjet,6,1,7,0.857
+81,Aircraft Mfg & Dev. Co. (Amd),7,0,7,1.0
+82,Robin,5,2,7,0.714
+83,Zenith,6,1,7,0.857
+84,Dassault,4,2,6,0.667
+85,Saab-Scania Ab (Saab),3,3,6,0.5
+86,Zenair,6,0,6,1.0
+87,Reims,5,1,6,0.833
+88,Hawker Siddeley,3,3,6,0.5
+89,Mcdonnell Douglas Aircraft Co,6,0,6,1.0
+90,Flight Design,6,0,6,1.0
+91,Great Lakes,6,0,6,1.0
+92,Embraer-Empresa Brasileira De,6,0,6,1.0
+93,Cub Crafters,6,0,6,1.0
+94,Dassault-Breguet,6,0,6,1.0
+95,Quicksilver,6,0,6,1.0
+96,American Legend Aircraft Co,6,0,6,1.0
+97,Remos Aircraft Gmbh,6,0,6,1.0
+98,Dornier,5,1,6,0.833
+99,Antonov,3,2,5,0.6
+100,Diamond Aircraft Ind Gmbh,5,0,5,1.0
+101,Raytheon Corporate Jets,3,2,5,0.6
+102,Gulfstream American,3,2,5,0.6
+103,Aero Vodochody,5,0,5,1.0
+104,Pilatus Aircraft Ltd,5,0,5,1.0
+105,Smith,5,0,5,1.0
+106,Thrush,5,0,5,1.0
+107,Callair,5,0,5,1.0
+108,Lake,5,0,5,1.0
+109,Canadair Ltd,4,0,4,1.0
+110,Pzl Mielec,4,0,4,1.0
+111,Gates Lear Jet,3,1,4,0.75
+112,Gulfstream American Corp,3,1,4,0.75
+113,Short Bros. & Harland,4,0,4,1.0
+114,Avid,4,0,4,1.0
+115,Cassutt,4,0,4,1.0
+116,Yakovlev,4,0,4,1.0
+117,Dassault/Sud,3,1,4,0.75
+118,Jabiru Usa Sport Aircraft Llc,4,0,4,1.0
+119,Tl Ultralight Sro,4,0,4,1.0
+120,American Champion (Acac),4,0,4,1.0
+121,Liberty Aerospace Incorporated,4,0,4,1.0
+122,Navion,4,0,4,1.0
+123,Quest,4,0,4,1.0
+124,Engineering & Research,4,0,4,1.0
+125,Siai-Marchetti,4,0,4,1.0
+126,Amateur Construction,4,0,4,1.0
+127,Classic Aircraft Corp,4,0,4,1.0
+128,Czech Sport Aircraft As,4,0,4,1.0
+129,Quest Aircraft Company Llc,4,0,4,1.0
+130,Christen Industries Inc,3,0,3,1.0
+131,Siai Marchetti,3,0,3,1.0
+132,Pacific Aerospace Corp Ltd,3,0,3,1.0
+133,Remos,3,0,3,1.0
+134,Pipistrel,3,0,3,1.0
+135,Steen,3,0,3,1.0
+136,Czech Aircraft Works Spol Sro,3,0,3,1.0
+137,Aerovodochody,3,0,3,1.0
+138,Casa,2,1,3,0.667
+139,Mcdonnell-Douglas,2,1,3,0.667
+140,Hawker Aircraft Ltd,2,1,3,0.667
+141,Avro,1,2,3,0.333
+142,Partenavia,2,1,3,0.667
+143,American,3,0,3,1.0
+144,Evektor Aerotechnik,3,0,3,1.0
+145,Liberty Aerospace Inc.,3,0,3,1.0
+146,Just Aircraft Llc,3,0,3,1.0
+147,Ryan,3,0,3,1.0
+148,Zivko Aeronautics Inc,3,0,3,1.0
+149,Zenair Ltd,3,0,3,1.0
+150,Sukhoi,3,0,3,1.0
+151,Extra,3,0,3,1.0
+152,Cubcrafters Inc,3,0,3,1.0
+153,Short Brothers,3,0,3,1.0
+154,Avions Robin,3,0,3,1.0
+155,Quad City,3,0,3,1.0
+156,Extra Flugzeugproduktions-Und,3,0,3,1.0
+157,Amateur Built Aircraft,3,0,3,1.0
+158,Moravan,2,0,2,1.0
+159,Airplane Factory (Pty) Ltd,2,0,2,1.0
+160,Extra Flugzeugbau Gmbh,2,0,2,1.0
+161,Czech Sport,2,0,2,1.0
+162,Czech Aircraft Works,2,0,2,1.0
+163,Grob-Werke,2,0,2,1.0
+164,Stearman,2,0,2,1.0
+165,"Wolseley Motors, Inc.",2,0,2,1.0
+166,Remos Acft Gmbh Flugzeugbau,2,0,2,1.0
+167,Let,2,0,2,1.0
+168,Honda Aircraft,1,1,2,0.5
+169,Aerospatiale,1,1,2,0.5
+170,Vans Aircraft Inc,2,0,2,1.0
+171,Icon Aircraft Inc,2,0,2,1.0
+172,American Champion,2,0,2,1.0
+173,Ayres Thrush,2,0,2,1.0
+174,"Thrush Aircraft, Inc.",2,0,2,1.0
+175,Dornier Gmbh,2,0,2,1.0
+176,Ted Smith,2,0,2,1.0
+177,Found Acft Canada Inc,2,0,2,1.0
+178,Honda Aircraft Co Llc,1,1,2,0.5
+179,Gates Lear Jet Corp.,1,1,2,0.5
+180,"Smith, Ted Aerostar",2,0,2,1.0
+181,Republic,2,0,2,1.0
+182,Ercoupe (Eng & Research Corp.),2,0,2,1.0
+183,Johnson,2,0,2,1.0
+184,Daher,2,0,2,1.0
+185,Varga,2,0,2,1.0
+186,737,2,0,2,1.0
+187,Curtiss-Wright,2,0,2,1.0
+188,Liberty Aerospace,2,0,2,1.0
+189,Neiva,2,0,2,1.0
+190,North American/Aero Classics,2,0,2,1.0
+191,Jackson,2,0,2,1.0
+192,Gippsland,2,0,2,1.0
+193,Mx Aircraft Llc,2,0,2,1.0
+194,Quickie,2,0,2,1.0
+195,Fpna Llc,2,0,2,1.0
+196,American Legend,2,0,2,1.0
+197,Eagle Aircraft Co.,2,0,2,1.0
+198,Iai,2,0,2,1.0
+199,Fantasy Air,2,0,2,1.0
+200,L-Bird Llc,2,0,2,1.0
+201,Commander,2,0,2,1.0
+202,Glasair,2,0,2,1.0
+203,Monocoupe,2,0,2,1.0
+204,Embraer S.A.,2,0,2,1.0
+205,Edge,2,0,2,1.0
+206,Construcciones Aeronauticas Sa,2,0,2,1.0
+207,Zlin,2,0,2,1.0
+208,Price,1,0,1,1.0
+209,Pridmore,1,0,1,1.0
+210,Aero Vodochody Aero. Works,1,0,1,1.0
+211,Universal Stinson,1,0,1,1.0
+212,Mudry,1,0,1,1.0
+213,Schmidt Albert D,1,0,1,1.0
+214,S.O.C.A.T.A.,1,0,1,1.0
+215,League,1,0,1,1.0
+216,Raytheon Corporate Jets Inc,1,0,1,1.0
+217,Xtremeair Gmbh,1,0,1,1.0
+218,Chrapczynski,1,0,1,1.0
+219,Goodyear,1,0,1,1.0
+220,Wag-Aero,1,0,1,1.0
+221,Spezio,1,0,1,1.0
+222,Spitfire,1,0,1,1.0
+223,Zodiac,1,0,1,1.0
+224,Mercer,1,0,1,1.0
+225,Stamper,1,0,1,1.0
+226,Hansen Ib C,1,0,1,1.0
+227,Flugzeugproduktions-Und Vertri,1,0,1,1.0
+228,Bryan C L/Labrash R D,1,0,1,1.0
+229,Smith Aerostar,1,0,1,1.0
+230,Sons Mustang,1,0,1,1.0
+231,Erick Magno & Assoc Pa,1,0,1,1.0
+232,Vashon Aircraft,1,0,1,1.0
+233,Stampe Renard,1,0,1,1.0
+234,Seibert Robert M,1,0,1,1.0
+235,Aerotek,1,0,1,1.0
+236,Ogg Richard A,1,0,1,1.0
+237,Gordon Scot A,1,0,1,1.0
+238,Dassault Falcon,1,0,1,1.0
+239,Lavia Argentina,1,0,1,1.0
+240,Rans Aircraft,1,0,1,1.0
+241,Hrosik Gene,1,0,1,1.0
+242,Coot,1,0,1,1.0
+243,Wright B Flyer Inc,1,0,1,1.0
+244,Craig D Carter,1,0,1,1.0
+245,S D Martin,1,0,1,1.0
+246,Icon,1,0,1,1.0
+247,Sonex Limited,1,0,1,1.0
+248,Turbo Thrush,1,0,1,1.0
+249,Little Eagle,1,0,1,1.0
+250,Michael Adamczyk,1,0,1,1.0
+251,Supinski Mark R,1,0,1,1.0
+252,Gulfstream Aerospace Corp,1,0,1,1.0
+253,Liteflite Pty Ltd,1,0,1,1.0
+254,Amorde,1,0,1,1.0
+255,American Champion Aircraft Cor,1,0,1,1.0
+256,Fritz Neumeyer,1,0,1,1.0
+257,Fairchild(Howard),1,0,1,1.0
+258,Evolution 19,1,0,1,1.0
+259,Brm Aero,1,0,1,1.0
+260,Hillard Charlie R,1,0,1,1.0
+261,Zenith Acft Co,1,0,1,1.0
+262,Cross-Capps,1,0,1,1.0
+263,Sport Flight,1,0,1,1.0
+264,Andrew Mckimmon,1,0,1,1.0
+265,Schoepflin,1,0,1,1.0
+266,Aerostar S A,1,0,1,1.0
+267,Rogers,1,0,1,1.0
+268,Evektor-Aerotechnik,1,0,1,1.0
+269,Randall Marvin L,1,0,1,1.0
+270,Carlton M. Cadwell,1,0,1,1.0
+271,Tupolev,1,0,1,1.0
+272,Gulfstream Aerospace Corp.,1,0,1,1.0
+273,Extra Flugzeugbau,1,0,1,1.0
+274,Quest Aircraft Company,1,0,1,1.0
+275,Pitts Aerobatics,1,0,1,1.0
+276,Foster William D,1,0,1,1.0
+277,Dta Sari,1,0,1,1.0
+278,Bosonetto,1,0,1,1.0
+279,Doggett Jack,1,0,1,1.0
+280,Ely,1,0,1,1.0
+281,Belcher,1,0,1,1.0
+282,"Allied Ag Cat Productions, Inc",1,0,1,1.0
+283,Bruce E. Hotz,1,0,1,1.0
+284,Rogers Kenneth J,1,0,1,1.0
+285,Von Berg,1,0,1,1.0
+286,Palen,1,0,1,1.0
+287,Nihon,1,0,1,1.0
+288,Softex Invest Llc,1,0,1,1.0
+289,C A Tecnam Srl,1,0,1,1.0
+290,Bender,1,0,1,1.0
+291,Q-Berry,1,0,1,1.0
+292,Jm Kemp,1,0,1,1.0
+293,British Aircraft Corp,1,0,1,1.0
+294,Airplane Factory,1,0,1,1.0
+295,Cruiser,1,0,1,1.0
+296,Pearson,1,0,1,1.0
+297,Howard Steven C,1,0,1,1.0
+298,Krueger,1,0,1,1.0
+299,James A Gray,1,0,1,1.0
+300,Morane-Saulnier,1,0,1,1.0
+301,"Nichols Rans, Inc.",1,0,1,1.0
+302,Lepow David A,1,0,1,1.0
+303,Mcdaniels,1,0,1,1.0
+304,Clamar Floats Inc,1,0,1,1.0
+305,Mxr Technologies Inc,1,0,1,1.0
+306,Board James A,1,0,1,1.0
+307,Whittman,1,0,1,1.0
+308,Mkii Corporation,1,0,1,1.0
+309,Diamond Aircraft Industries In,1,0,1,1.0
+310,Boyd Bruce,1,0,1,1.0
+311,Hall Terrence / Hall Cathie,1,0,1,1.0
+312,Skybolt,1,0,1,1.0
+313,Na,1,0,1,1.0
+314,Nakajima,1,0,1,1.0
+315,Raytheon Company,1,0,1,1.0
+316,Dauntless,1,0,1,1.0
+317,Velocity Inc,1,0,1,1.0
+318,Bowles Chris,1,0,1,1.0
+319,Czech Sport Aircraft,1,0,1,1.0
+320,Airborne Windsports Ltd,1,0,1,1.0
+321,Challenger,1,0,1,1.0
+322,Aircraft Mfg & Design Llc,1,0,1,1.0
+323,Aeropro Cz,1,0,1,1.0
+324,Pzl Okecie,1,0,1,1.0
+325,Rose Herbert D,1,0,1,1.0
+326,"Jabiru Usa Sport Aircraft, Llc",1,0,1,1.0
+327,Schumacher,1,0,1,1.0
+328,Mileski,1,0,1,1.0
+329,Aircraft Mfg & Development Co,1,0,1,1.0
+330,Cozy,1,0,1,1.0
+331,Hogan,1,0,1,1.0
+332,Warth Dennis J,1,0,1,1.0
+333,Mudge Ray,1,0,1,1.0
+334,Roetman Ryland K Jr,1,0,1,1.0
+335,Jurmu,1,0,1,1.0
+336,Aermacchi,1,0,1,1.0
+337,Pioneer,1,0,1,1.0
+338,Brown Joseph,1,0,1,1.0
+339,Forster,1,0,1,1.0
+340,Freeman Heritage Collection,1,0,1,1.0
+341,Rotherwick Hr,1,0,1,1.0
+342,Mayo,1,0,1,1.0
+343,Gates Learjet Corp,1,0,1,1.0
+344,Tatelman-Pitts,1,0,1,1.0
+345,Partenavia Spa,1,0,1,1.0
+346,Diamond Aircraft Industry Inc,1,0,1,1.0
+347,Edson Robert W,1,0,1,1.0
+348,Silvaire,1,0,1,1.0
+349,Kuykendall Charles,1,0,1,1.0
+350,Thompson,1,0,1,1.0
+351,Arctic,1,0,1,1.0
+352,Wagaero,1,0,1,1.0
+353,Willerton,1,0,1,1.0
+354,Northrop,1,0,1,1.0
+355,Titan Aerospace Holdings Inc,1,0,1,1.0
+356,Ostertag Walter G,1,0,1,1.0
+357,Eipper,1,0,1,1.0
+358,Amature Built,1,0,1,1.0
+359,Comco Ikarus,1,0,1,1.0
+360,"Wrb Associates, Llc.",1,0,1,1.0
+361,Yakovlev/Chinnery,1,0,1,1.0
+362,Giboney,1,0,1,1.0
+363,Mcdonnell Douglas Corporation,1,0,1,1.0
+364,Forisch Edward,1,0,1,1.0
+365,Mxr Technologies,1,0,1,1.0
+366,Lankenau,1,0,1,1.0
+367,Maule Aircraft Corp,1,0,1,1.0
+368,"Halderman, Floyd G.",1,0,1,1.0
+369,Halbrook,1,0,1,1.0
+370,Dacey,1,0,1,1.0
+371,Mcfarland Wm H,1,0,1,1.0
+372,Sabreliner Corp.,1,0,1,1.0
+373,Stits Flut-R-Bug,1,0,1,1.0
+374,Aerotechnik,1,0,1,1.0
+375,Fairchild Industries,1,0,1,1.0
+376,University Of Kansas,0,1,1,0.0
+377,Sutphin John E,0,1,1,0.0
+378,Pepperd Greg J,0,1,1,0.0
+379,Sorrel,0,1,1,0.0
+380,Marquart,0,1,1,0.0
+381,777,0,1,1,0.0
+382,Aficionado,0,1,1,0.0
+383,Harbin,0,1,1,0.0
+384,Columbia,0,1,1,0.0
+385,Gulfstream Aerospace Lp,0,1,1,0.0
+386,Facebook Uk Ltd,0,1,1,0.0
+387,British Aerospace Civil Aircr,0,1,1,0.0
+388,Kitfox,0,1,1,0.0
+389,Short Brothers & Harland Ltd.,0,1,1,0.0
+390,Saab-Scania Ab,0,1,1,0.0
+391,Kaman,0,1,1,0.0
+392,Aerosport Ltd,1,0,1,1.0
+393,Nunn,0,1,1,0.0
+394,Raytheon Co,0,1,1,0.0
+395,Piaggio Industrie,0,1,1,0.0
+396,Short Bros.,0,1,1,0.0
+397,Fairchild/Swearingen,0,1,1,0.0
+398,Bac,0,1,1,0.0
+399,Waco Classic Aircraft Corp,1,0,1,1.0
+400,Lawrence O Nolte,1,0,1,1.0
+401,Nasdalla,1,0,1,1.0
+402,Murphy Aircraft,1,0,1,1.0
+403,Cobalt Aircraft Industries Inc,1,0,1,1.0
+404,Blackshape,1,0,1,1.0
+405,Harms,1,0,1,1.0
+406,Meyers,1,0,1,1.0
+407,Bell,1,0,1,1.0
+408,Halladay Roy,1,0,1,1.0
+409,Saab-Scania,1,0,1,1.0
+410,Wsk-Pzl Meilec,1,0,1,1.0
+411,M7 Aerospace,1,0,1,1.0
+412,Kolb,1,0,1,1.0
+413,Ultramagic Sa,1,0,1,1.0
+414,Mitchell,1,0,1,1.0
+415,Hansen,1,0,1,1.0
+416,Embraer Aircraft,1,0,1,1.0
+417,Eclipse Aerospace Inc,1,0,1,1.0
+418,Artic Aircraft Corp.,1,0,1,1.0
+419,Quartz Mountain Aerospace,1,0,1,1.0
+420,Rainbow Sky Reach,1,0,1,1.0
+421,Martin,1,0,1,1.0
+422,Kevin D. Yarnevich,1,0,1,1.0
+423,Kolb Company,1,0,1,1.0
+424,Ac Mfg & Dev'T Co,1,0,1,1.0
+425,Stol Aircraft Corp,1,0,1,1.0
+426,Glenn H Curtiss Museum,1,0,1,1.0
+427,Cavalier,1,0,1,1.0
+428,Dickson,1,0,1,1.0
+429,Embraer Executive Aircraft Inc,1,0,1,1.0
+430,Indy Aircraft Ltd,1,0,1,1.0
+431,Tyler Ives,1,0,1,1.0
+432,Brumbaugh David R,1,0,1,1.0
+433,Brinker / Garner,1,0,1,1.0
+434,Christen Industries,1,0,1,1.0
+435,Raf,1,0,1,1.0
+436,Gippsaero Pty Ltd,1,0,1,1.0
+437,Amstutz Curtis J,1,0,1,1.0
+438,Sadler,1,0,1,1.0
+439,Lockwood,1,0,1,1.0
+440,Aviocar Casa,1,0,1,1.0
+441,Texas Air Ventures Inc,1,0,1,1.0
+442,Wag Aero,1,0,1,1.0
+443,Fisher Flying Products,1,0,1,1.0
+444,Underland/Grothe/Finstrom,1,0,1,1.0
+445,Meriwether Jon,1,0,1,1.0
+446,Lawwill Ted,1,0,1,1.0
+447,M7Aero,1,0,1,1.0
+448,Scheineman-Van Buren,1,0,1,1.0
+449,Seguin,1,0,1,1.0
+450,Vickers,1,0,1,1.0
+451,Aero-Ace,1,0,1,1.0
+452,Farace Thomas Scott,1,0,1,1.0
+453,Paradise Aircraft Usa Llc,1,0,1,1.0
+454,Fairchild Swearingen,1,0,1,1.0
+455,Merritt Leslie R,1,0,1,1.0
+456,Pzl-Mielec,1,0,1,1.0
+457,Angel Aircraft Corporation,1,0,1,1.0
+458,Fairchild Heli-Porter,1,0,1,1.0
+459,Hermann Bjorn,1,0,1,1.0
+460,Paulistinha  56-C1,1,0,1,1.0
+461,Ferguson Aircraft,1,0,1,1.0
+462,Roberts,1,0,1,1.0
+463,Hitchcock,1,0,1,1.0
+464,Cassult Racer,1,0,1,1.0
+465,Fantasy Air Sro,1,0,1,1.0
+466,Tifft,1,0,1,1.0
+467,Rice Leo B,1,0,1,1.0
+468,Jabiru Aircraft Pty Ltd,1,0,1,1.0
+469,"Rhoads, Larry E",1,0,1,1.0
+470,Dixon,1,0,1,1.0
+471,Bkf,1,0,1,1.0
+472,M-Squared Aircraft,1,0,1,1.0
+473,Kelly,1,0,1,1.0
+474,Aerofab Inc,1,0,1,1.0
+475,Hoyle,1,0,1,1.0
+476,Fox Jack G,1,0,1,1.0
+477,Whitehead,1,0,1,1.0
+478,Wells John L Jr,1,0,1,1.0
+479,Slingsby,1,0,1,1.0
+480,Porterfield,1,0,1,1.0
+481,Bristell,1,0,1,1.0
+482,C M Stuhrenberg/P C Polete,1,0,1,1.0
+483,Jahns,1,0,1,1.0
+484,Klemme William H,1,0,1,1.0
+485,Corvus,1,0,1,1.0
+486,Sachse Stephan,1,0,1,1.0
+487,Aveko Sro,1,0,1,1.0
+488,Bordiuk,1,0,1,1.0
+489,Owen,1,0,1,1.0
+490,Auman Jl,1,0,1,1.0
+491,Tandem,1,0,1,1.0
+492,Ingraham,1,0,1,1.0
+493,Aeros,1,0,1,1.0
+494,Curtis,1,0,1,1.0
+495,Davis Daniel T,1,0,1,1.0
+496,Lyons,1,0,1,1.0
+497,Lee Kolb,1,0,1,1.0
+498,Pac,1,0,1,1.0
+499,Arion Aircraft Llc,1,0,1,1.0
+500,Wsk-Pzl Warzawa-Okecie,1,0,1,1.0
+501,Piaggio Aero Industries Spa,1,0,1,1.0
+502,Avres Corp.,1,0,1,1.0
+503,Mustang,1,0,1,1.0
+504,Bordelon,1,0,1,1.0
+505,Vulcanair,1,0,1,1.0
+506,Sorrell,1,0,1,1.0
+507,Consolidated Vultee,1,0,1,1.0
+508,Doshier Wilbert A,1,0,1,1.0
+509,Yuneec,1,0,1,1.0
+510,Ttx Air Llc,1,0,1,1.0
+511,Airparts Nz Ltd,1,0,1,1.0
+512,Bushmaster,1,0,1,1.0
+513,Sorensen,1,0,1,1.0
+514,G-Dawg Llc,1,0,1,1.0
+515,Ayres Corp,1,0,1,1.0
+516,Aerospatiale Alenia,1,0,1,1.0
+517,Extra Flugzeugproduktions-Gmbh,1,0,1,1.0
+518,Volksplane,1,0,1,1.0
+519,Suminski Walter M,1,0,1,1.0
+520,Arnold,1,0,1,1.0
+521,White,1,0,1,1.0
+522,Brown Joseph B Jr,1,0,1,1.0
+523,Griffiths James Sydney,1,0,1,1.0
+524,Epig,1,0,1,1.0
+525,Honda,1,0,1,1.0
+526,Richard,1,0,1,1.0
+527,Ilyushin,1,0,1,1.0
+528,Murray,1,0,1,1.0
+529,Aero At Sp Zoo,1,0,1,1.0
+530,Aeropro Cz S R O,1,0,1,1.0
+531,Vicari,1,0,1,1.0
+532,Cubcrafters,1,0,1,1.0
+533,Aero Sp Z O O (Gobosh),1,0,1,1.0
+534,Liberty Aerospace Incorporate,1,0,1,1.0
+535,Raven Aircraft Corppration,1,0,1,1.0
+536,Norman Negus,1,0,1,1.0
+537,Costruzioni Aeronautiche,1,0,1,1.0
+538,Fairchild Funk,1,0,1,1.0
+539,Luciani,1,0,1,1.0
+540,Capella,1,0,1,1.0
+541,Ryan Aeronautical,1,0,1,1.0
+542,M.C. Thomas,1,0,1,1.0
+543,Evektor Aerotechnic,1,0,1,1.0
+544,Gallagher,1,0,1,1.0
+545,Cook,1,0,1,1.0
+546,Skykits Corp,1,0,1,1.0
+547,Helton,1,0,1,1.0
+548,Schupp Edward W,1,0,1,1.0
+549,Globe,1,0,1,1.0
+550,Evektor,1,0,1,1.0
+551,Ag-Cat Corporation,1,0,1,1.0
+552,Osprey 2,1,0,1,1.0
+553,Volmer Aircraft,1,0,1,1.0
+554,Andrews,1,0,1,1.0
+555,Donald Bernard Higgs,1,0,1,1.0
+556,Airplane Factory (Pty) Ltd The,1,0,1,1.0
+557,"Wingtip To Wingtip, Llc",1,0,1,1.0
+558,Foxair Llc,1,0,1,1.0
+559,Miller,1,0,1,1.0
+560,Weston,1,0,1,1.0
+561,S.A.N.,1,0,1,1.0
+562,Unknown,1,0,1,1.0
+563,Cornell W F/Sahakian J A Jr,1,0,1,1.0
+564,Aerostar Acft Corp Of Texas,1,0,1,1.0
+565,Noorduyn,1,0,1,1.0
+566,Joby Aero Inc,1,0,1,1.0
+567,Pilatus Britten-Norman,1,0,1,1.0
+568,British Aircraft Corp.,1,0,1,1.0
+569,Rand,1,0,1,1.0
+570,Fairchild Hiller,1,0,1,1.0
+571,Moses Tim C,1,0,1,1.0
+572,Supermarine,1,0,1,1.0
+573,Silence,1,0,1,1.0
+574,Comp Air,1,0,1,1.0
+575,Airvan,1,0,1,1.0
+576,Short,1,0,1,1.0
+577,Legacy,1,0,1,1.0
+578,Hoover David,1,0,1,1.0
+579,Aircraft Mfg & Dev. Co.,1,0,1,1.0
+580,Lyman Randall/Scott David,1,0,1,1.0
+581,Sorenson,1,0,1,1.0
+582,Mccurdy,1,0,1,1.0
+583,Iniziative,1,0,1,1.0
+584,York,1,0,1,1.0
+585,Consolidated Aeronautics Inc.,1,0,1,1.0
+586,Czech Sport Aircraft A S,1,0,1,1.0
+587,Truitt Peter,1,0,1,1.0
+588,Jewett,1,0,1,1.0
+589,Citabria,1,0,1,1.0
+590,Sauer,1,0,1,1.0
+591,Indonesian Aerospace,1,0,1,1.0
+592,Adolphson,1,0,1,1.0
+593,Thorp,1,0,1,1.0
+594,Frederick,1,0,1,1.0
+595,J.A.Mullan,1,0,1,1.0
+596,Marino,1,0,1,1.0
+597,3Xtrim,1,0,1,1.0
+598,Wag-A-Bond Traveller,1,0,1,1.0
+599,Motley Gary W,1,0,1,1.0
+600,Downer Aircraft Industries,1,0,1,1.0
+601,Dusenberry,1,0,1,1.0
+602,Nolin,1,0,1,1.0
+603,Moyes,1,0,1,1.0
+604,Chang,1,0,1,1.0
+605,Hiller,1,0,1,1.0
+606,Iniziative Industriali Italian,1,0,1,1.0
+607,Believer,1,0,1,1.0
+608,Midget,1,0,1,1.0
+609,Baker Victor R,1,0,1,1.0
+610,Eagle Aircraft Co,1,0,1,1.0
+611,Southern Airmotive Corp Sac,1,0,1,1.0
+612,Nasa Ames Research Center,1,0,1,1.0
+613,Saville Hummer,1,0,1,1.0
+614,Kenneth B Hines,1,0,1,1.0
+615,Davis,1,0,1,1.0
+616,Kenney,1,0,1,1.0
+617,Schaffer Gary W,1,0,1,1.0
+618,Lavia Argentina S.A.,1,0,1,1.0
+619,Roberto P. Garcia,1,0,1,1.0
+620,Wright Daniel J,1,0,1,1.0
+621,Air Creation,1,0,1,1.0
+622,Brown Mark,1,0,1,1.0
+623,Bedecorp Llc,1,0,1,1.0
+624,Mas Events,1,0,1,1.0
+625,Lsa America Inc,1,0,1,1.0
+626,Backovich George C,1,0,1,1.0
+627,Buckman,1,0,1,1.0
+628,Curtis-Wright,1,0,1,1.0
+629,Velocity,1,0,1,1.0
+630,"Schweizer, N36289",1,0,1,1.0
+631,Wilson,1,0,1,1.0
+632,Classic Aircraft Corp.,1,0,1,1.0
+633,Smith Albert F,1,0,1,1.0
+634,Wsl Pzl,1,0,1,1.0
+635,Ang,1,0,1,1.0
+636,Mobi-Light,1,0,1,1.0
+637,North American/Schwamm,1,0,1,1.0
+638,Rajhamsa,1,0,1,1.0
+639,Schendl,1,0,1,1.0
+640,"Weaver, David A",1,0,1,1.0
+641,New Kolb Aircraft Co Llc,1,0,1,1.0
+642,Hickham,1,0,1,1.0
+643,Gulfstream Am Corp Comm Div,1,0,1,1.0
+644,Ludwig Larry E,1,0,1,1.0
+645,Shook,1,0,1,1.0
+646,North Wing,1,0,1,1.0
+647,Molino Oy,1,0,1,1.0
+648,Ronald J Bender,1,0,1,1.0
+649,Airborne,1,0,1,1.0
+650,Potez-Air Fouga,1,0,1,1.0
+651,Socata-Groupe Aerospatiale,1,0,1,1.0
+652,Gulfstream American Corp.,1,0,1,1.0
+653,Grob,1,0,1,1.0
+654,Taylor,1,0,1,1.0
+655,Morrison,1,0,1,1.0
+656,Frazier,1,0,1,1.0
+657,Thrush Aircraft Llc,1,0,1,1.0
+658,Oliver Lawrence R,1,0,1,1.0
+659,Jihlavan Airplanes Sro,1,0,1,1.0
+660,Roach Neil,1,0,1,1.0
+661,Fisher,1,0,1,1.0
+662,Tomisin Thomas J,1,0,1,1.0
+663,Central Ohio Dragonfly Club,1,0,1,1.0
+664,Kitty Hawk,1,0,1,1.0
+665,William K. Crawford,1,0,1,1.0
+666,Elmwood,1,0,1,1.0
+667,Merian Richard F,1,0,1,1.0
+668,United Consultants,1,0,1,1.0
+669,Embraer Sa,1,0,1,1.0
+670,Comp Air Inc. (Plambeck),1,0,1,1.0
+671,Vertical Unlimited Llc,1,0,1,1.0
+672,Titan,1,0,1,1.0
+673,Millhouse D Scott,1,0,1,1.0
+674,Remos Aircraft Gmbh Flugzeugba,1,0,1,1.0
+675,American Eurocopter,1,0,1,1.0
+676,Avions Mudry Et Cie,1,0,1,1.0
+677,Nickel,1,0,1,1.0
+678,Greg Connell,1,0,1,1.0
+679,Dayton-Wright,1,0,1,1.0
+680,Piaggio Aero Industries S.P.A.,1,0,1,1.0
+681,Diamond Aircraft,1,0,1,1.0
+682,Beagle,1,0,1,1.0
+683,Shannon James A Jr,1,0,1,1.0
+684,Liberty,1,0,1,1.0
+685,Waco Classic Aircraft,1,0,1,1.0
+686,Conway Philip J,1,0,1,1.0
+687,Rivers Lindsey Lee,1,0,1,1.0
+688,Hillery W. Grice,1,0,1,1.0
+689,Mcdonald Douglas,1,0,1,1.0
+690,Aerofab,1,0,1,1.0
+691,Amd,1,0,1,1.0
+692,Keesler,1,0,1,1.0
+693,Pietsch,1,0,1,1.0
+694,Gates Learjet Corporation,1,0,1,1.0
+695,Robertson,1,0,1,1.0
+696,Acroduster,1,0,1,1.0
+697,Gulfstream Schweizer A/C Corp,1,0,1,1.0
+698,Joplin,1,0,1,1.0
+699,Lorentzen,1,0,1,1.0
+700,Cosmos,1,0,1,1.0
+701,Hopkins,1,0,1,1.0
+702,Progressive Aerodyne,1,0,1,1.0
+703,Nord,1,0,1,1.0
+704,English Electric Lightning,1,0,1,1.0
+705,Birchler Boyd,1,0,1,1.0
+706,Israel Aerospace Industriesltd,1,0,1,1.0
+707,Rutten Phil J,1,0,1,1.0
+708,Bereznak,1,0,1,1.0
+709,Goudie,1,0,1,1.0
+710,Grahn J/Grahn G,1,0,1,1.0
+711,Storm Fury,1,0,1,1.0
+712,Sharp Ralph R,1,0,1,1.0
+713,Rutan,1,0,1,1.0
+714,Ridge Lowell H,1,0,1,1.0
+715,Mathis Melvin R,1,0,1,1.0
+716,Skykits Corporation,1,0,1,1.0
+717,Evans Aircraft,1,0,1,1.0
+718,Viking Air Limited,1,0,1,1.0
+719,Monnett,1,0,1,1.0
+720,Trudel,1,0,1,1.0
+721,Refling,1,0,1,1.0
+722,Huntington,1,0,1,1.0
+723,Adkins,1,0,1,1.0
+724,Hubbell,1,0,1,1.0
+725,Crow,1,0,1,1.0
+726,Spackman,1,0,1,1.0
+727,Crawford,1,0,1,1.0
+728,Interstate,1,0,1,1.0
+729,Airtime Aircraft Inc,1,0,1,1.0
+730,James B. Taplin,1,0,1,1.0
+731,Peay,1,0,1,1.0
+732,Rans Inc.,1,0,1,1.0
+733,Klaas Development Inc,1,0,1,1.0
+734,Foxworthy Rick A,1,0,1,1.0
+735,Columbia Aircraft Mfg,1,0,1,1.0
+736,Wells Elgin M,1,0,1,1.0
+737,Bobbi Boucher,1,0,1,1.0
+738,Brm Aero Sro,1,0,1,1.0
+739,Ferguson William C,1,0,1,1.0
+740,M7 Aerospace Llc,1,0,1,1.0
+741,C A S A,1,0,1,1.0
+742,Fairley Gooch,1,0,1,1.0
+743,Hallbauer,1,0,1,1.0
+744,Evektor Aerotechnik As,1,0,1,1.0
+745,Grob Aircraft Ag,1,0,1,1.0
+746,Progressive Aerodyne Inc,1,0,1,1.0
+747,Eads Socata,1,0,1,1.0
+748,Stephen J Hoffman,0,1,1,0.0
